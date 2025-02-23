@@ -1,0 +1,2 @@
+﻿Using IrfanView command line, save F:\temp\file.bmp into PNG quality 90%
+same folder but extension is different
